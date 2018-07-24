@@ -1,6 +1,6 @@
 === WooCommerce Bitcoin to Blockchain.Info Wallet Gateway ===
 
- - Contributors: cameleater
+ - Contributors: cameleater/ Forked from https://github.com/bekarice/woocommerce-gateway-offline
  - Tags: woocommerce, payment gateway, gateway, bitcoin, cryptocurrency, blockchain.info
  - Requires at least: 3.8
  - Tested up to: 4.3
