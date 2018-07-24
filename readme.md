@@ -1,7 +1,7 @@
-=== WooCommerce Offline Gateway ===
+=== WooCommerce Bitcoin to Blockchain.Info Wallet Gateway ===
 
- - Contributors: skyverge, beka.rice
- - Tags: woocommerce, payment gateway, gateway, manual payment
+ - Contributors: cameleater
+ - Tags: woocommerce, payment gateway, gateway, bitcoin, cryptocurrency, blockchain.info
  - [Donate link](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@skyverge.com&item_name=Donation+for+WooCommerce+Offline+Gateway)
  - Requires at least: 3.8
  - Tested up to: 4.3
